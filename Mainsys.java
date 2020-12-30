@@ -72,7 +72,7 @@ class Main
             {  0,   9,   9,  -9,},
             { -1,  -1,  -1,  -1,},
 
-        };
+        }
  
         // 
         System.out.print("The maximum sum of sub-matrix is " +
